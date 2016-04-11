@@ -246,11 +246,11 @@ p {
 	background-color:#F8F8F8;
 }
 .navbar-toggle .icon-bar {
-    background-color: #29ABE2;
+    background-color: #F44336;
 }
 .dropdown-menu {
 	border:0;
-    border-bottom: 4px solid #29ABE2;
+    border-bottom: 4px solid #F44336;
 	border-radius:0;
 }
 .dropdown-menu > li > a {
@@ -1411,7 +1411,7 @@ p.help-block.text-danger li {
 	}
 	.navbar-main .navbar-nav > li.active > a,
 	.navbar-main .navbar-nav > li > a:hover{
-		background-color: #48B8E7;
+		background-color: #F44336;
 		color: #fff;
 	}
 	.navbar-nav .open .dropdown-menu > li > a {
